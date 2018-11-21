@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.2.4",
-      "download-url": "https://github.com/keiler2018/GCS/blob/master/download/QGroundControl.exe",
+      "download-url": "https://github.com/keiler2018/GCS/blob/master/download/Windows/GCS_alpha_1.2.2.exe",
       "changelog": "测试windows 远程升级。。。"
     },
     "osx": {
