@@ -1,8 +1,8 @@
 {
   "updates": {
     "windows": {
-      "open-url": "https://github.com/keiler2018/GCS/blob/master/msvcp140.dll",
-      "latest-version": "1.0",
+      "open-url": "",
+      "latest-version": "8.0",
       "download-url": "https://github.com/keiler2018/GCS/blob/master/msvcp140.dll",
       "changelog": "This is an example changelog for Windows. Go on.../////"
     },
