@@ -2,8 +2,8 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.2.8",
-      "download-url": "https://raw.githubusercontent.com/keiler2018/GCS/master/download/Windows/GCS_alpha_1.2.2.exe",
+      "latest-version": "1.2.5",
+      "download-url": "https://raw.githubusercontent.com/keiler2018/GCS/master/download/Windows/GCS_alpha_1.2.5.exe",
       "changelog": " "
     },
     "osx": {
