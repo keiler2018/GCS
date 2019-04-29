@@ -8,25 +8,25 @@
     },
     "osx": {
       "open-url": "",
-      "latest-version": "1.0",
+      "latest-version": "1.2.9",
       "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for Mac OS X. Go on..."
     },
     "linux": {
       "open-url": "",
-      "latest-version": "1.0",
+      "latest-version": "1.2.9",
       "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for Linux. Go on..."
     },
     "ios": {
       "open-url": "",
-      "latest-version": "1.0",
+      "latest-version": "1.2.9",
       "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for iOS. Go on..."
     },
     "android": {
       "open-url": "",
-      "latest-version": "1.0",
+      "latest-version": "1.2.9",
       "download-url": "https://raw.githubusercontent.com/keiler2018/GCS/master/download/Android/GCS_alpha_1.2.4.apk",
       "changelog": "This is an example changelog for Android. Go on..."
     }
